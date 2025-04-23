@@ -17,6 +17,7 @@
     <modules>
         <module>gateway</module>
         <module>discovery</module>
+        <module>rest-base</module>
     </modules>
     <properties>
         <java.version>21</java.version>
